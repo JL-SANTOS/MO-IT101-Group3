@@ -14,7 +14,7 @@ A Java-based console application for managing employee records and attendance, d
   - Withholding Tax
 - Data stored in CSV files for portability
 
-## Tests Screenshots
+## Tests/Quality Assurance Screenshots
 
 - Located in Test Folder
 - Java Test Files in Test Folder
@@ -65,7 +65,7 @@ MotorPH/
 - Time inputs use `H:mm` (24-hour) format.
 - Deductions are computed only at end-of-month weeks.
 
-## Testing
+## Testing/Quality Assurance
 
 All unit and integration tests are located under the `test/` directory and written using JUnit 4.
 
