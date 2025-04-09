@@ -14,6 +14,11 @@ A Java-based console application for managing employee records and attendance, d
   - Withholding Tax
 - Data stored in CSV files for portability
 
+## Tests Screenshots
+
+-Located in Test Folder
+-Java Test Files in Test Folder
+
 ## Technologies Used
 
 - Java SE
