@@ -16,8 +16,8 @@ A Java-based console application for managing employee records and attendance, d
 
 ## Tests Screenshots
 
--Located in Test Folder
--Java Test Files in Test Folder
+- Located in Test Folder
+- Java Test Files in Test Folder
 
 ## Technologies Used
 
